@@ -4,7 +4,8 @@ Bu proje, İstanbul Büyükşehir Belediyesi'nin (İBB) açık veri portalından
 
 Bu proje, şehir planlaması, toplu taşıma optimizasyonu ve veri odaklı karar verme süreçlerine ilgi duyan herkes için değerli içgörüler sunmayı amaçlamaktadır.
 
-**▶️ Projenin Detaylı Anlatımını İçeren YouTube Videom:** https://www.youtube.com/embed/aySKa85WX28?si=s2QFUQHSQ_VxuDd4
+**▶️ Projenin Detaylı Anlatımını İçeren YouTube Videom:** https://youtu.be/aySKa85WX28?si=7HPZabKWLag2NXSp
+
 ## Projenin Temel Amaçları
 
 * İBB açık veri portalından ve GTFS kaynaklarından toplu taşıma verilerini API aracılığıyla çekmek ve hazırlamak.
