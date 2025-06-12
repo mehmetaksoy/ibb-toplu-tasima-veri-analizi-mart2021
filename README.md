@@ -105,6 +105,21 @@ Bu proje, Colab not defterindeki hücrelerle ve yukarıda bağlantısı verilen 
 
 ## Katkıda Bulunma ve İletişim
 
-Proje hakkındaki sorularınızı, geri bildirimlerinizi veya potansiyel iyileştirme önerilerinizi GitHub Issues üzerinden iletebilirsiniz.
+Proje hakkındaki sorularınızı, geri bildirimlerinizi veya potansiyel iyileştirme önerilerinizi iletebilirsiniz.
 
 ---
+
+
+## 📞 İletişim
+
+🐛 **Bug Report**: GitHub Issues kullanın  
+💡 **Feature Request**: Discussions bölümünden önerinizi paylaşın  
+📧 E-posta: [mehmetaksoy49@gmail.com]
+
+- Pull Request ile katkıda bulunun
+- Projeyi yıldızlamayı unutmayın! ⭐
+
+---
+
+**Not**: Bu proje eğitim amaçlı geliştirilmiştir ve akademik çalışmalarda referans olarak kullanılabilir.
+
